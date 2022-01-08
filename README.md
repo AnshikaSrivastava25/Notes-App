@@ -6,10 +6,11 @@ Notes App is used for making short text notes, update when we need them, and tra
 
 One of the most used components in our daily life is paper. According to a survey, on an average, a human use 27kgs of paper annually and this thesis is about impact of usage of paper on our environment. Paper can easily be crumpled and messy and Easy to lose or misplace. Difficult to share and understand handwritten document. Also, Prone to spelling error. Piled up papers is unattractive to the eye.
 
-<b> Proposed Solution: </b>
+# Proposed Solution: 
 
 This Note-taking applications enable users to type or write on their devices just as they would on paper and allow to access, store and update a note anytime. On average typing is faster than handwriting. One can add links in your notes as references. Can erase or edit text without messing up the pages and has almost unlimited pages to write on
 
+# Screenshots
 
 ![image](https://user-images.githubusercontent.com/75130949/148077016-da035c2e-e6ca-44a0-965a-438d2c4ea703.png)
 ![image](https://user-images.githubusercontent.com/75130949/148077099-fb5f541d-94c9-4280-a4bc-54748fa3d2a8.png)
