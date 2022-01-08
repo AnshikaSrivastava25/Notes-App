@@ -27,6 +27,6 @@ I built a simple Notes Application in which I have displayed the list of notes i
 - Repository & Entity: a class that t is mainly used to manage multiple sources of data and an annotated class that is used to describe a database table when we are working with Room
 - DAO: used for mapping SQL queries to functions.
 
-# Application Link & Future Scope :
+# Future Scope :
 
 To increase the knowledge and efficiency within organizations, sharing and tracking of information has become a priority. Note-taking applications have made a dent in the professional market, with most organizations committed to at least one application. Individually, business professionals may choose to use their own note-taking applications to track their roles within the company.
