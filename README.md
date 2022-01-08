@@ -15,7 +15,7 @@ This Note-taking applications enable users to type or write on their devices jus
 
 <b> Functionality & Concepts used: </b>
 
-We built a simple Notes Application in which we will be displaying the list of notes in Recycler View which is added by the user. Along with that, we will be also able to add a new note to your app. We will be using Room Database for storing data in users’ devices. The App has a very simple and interactive interface which helps user to create their notes, also hint text are provided to guide them.
+I built a simple Notes Application in which I have displayed the list of notes in Recycler View which is added by the user. Along with that, I have also able to add a new note to the app. I have used Room Database for storing data in users’ devices. The App has a very simple and interactive interface which helps user to create their notes, also hint text are provided to guide them.
 
 - Constraint Layout: Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
 - Simple & Easy Views Design: Use of familiar audience EditText with hints and interactive buttons made it easier for user to create notes. Apps also uses App Navigation to switch between different screens.
