@@ -1,5 +1,7 @@
 # Notes-App
 
+Notes App is used for making short text notes, update when we need them, and trash when we are done. It can be used for various functions as we can add your to-do list in this app, some important notes for future reference, etc. The app is very useful in some cases like when we want quick access to the notes
+
 <b> Problem Statement: </b>
 
 One of the most used components in our daily life is paper. According to a survey, on an average, a human use 27kgs of paper annually and this thesis is about impact of usage of paper on our environment. Paper can easily be crumpled and messy and Easy to lose or misplace. Difficult to share and understand handwritten document. Also, Prone to spelling error. Piled up papers is unattractive to the eye.
