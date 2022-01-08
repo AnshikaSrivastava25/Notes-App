@@ -16,7 +16,7 @@ This Note-taking applications enable users to type or write on their devices jus
 ![image](https://user-images.githubusercontent.com/75130949/148077099-fb5f541d-94c9-4280-a4bc-54748fa3d2a8.png)
 
 
-<b> Functionality & Concepts used: </b>
+# Functionality & Concepts used: 
 
 I built a simple Notes Application in which I have displayed the list of notes in Recycler View which is added by the user. Along with that, I have also able to add a new note to the app. I have used Room Database for storing data in users’ devices. The App has a very simple and interactive interface which helps user to create their notes, also hint text are provided to guide them.
 
@@ -27,6 +27,6 @@ I built a simple Notes Application in which I have displayed the list of notes i
 - Repository & Entity: a class that t is mainly used to manage multiple sources of data and an annotated class that is used to describe a database table when we are working with Room
 - DAO: used for mapping SQL queries to functions.
 
-<b> Application Link & Future Scope : </b>
+# Application Link & Future Scope :
 
 To increase the knowledge and efficiency within organizations, sharing and tracking of information has become a priority. Note-taking applications have made a dent in the professional market, with most organizations committed to at least one application. Individually, business professionals may choose to use their own note-taking applications to track their roles within the company.
